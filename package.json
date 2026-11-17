@@ -1,0 +1,1 @@
+{"name":"mosaed-study-ai","version":"1.0.0","private":true,"description":"Arabic study helper with photo-to-summary feature","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"},"engines":{"node":">=20"}}
